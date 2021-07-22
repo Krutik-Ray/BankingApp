@@ -1,4 +1,6 @@
 # BankingApp
 This is a Banking App I created during my Winter internship at The Sparks Foundation. <br>
 It has a simple UI, with features like: Balance check, Money transfer, etc <br>
-Technology used: Java, SQlite.
+Technology used: Java, SQlite. <br>
+
+<img src="https://cdn.discordapp.com/attachments/774850827105206282/867641889046265946/unknown.png" data-canonical-src="https://cdn.discordapp.com/attachments/774850827105206282/867641889046265946/unknown.png" width="200" height="400"/>   <img src="https://cdn.discordapp.com/attachments/774850827105206282/867641961128656916/unknown.png" data-canonical-src="https://cdn.discordapp.com/attachments/774850827105206282/867641961128656916/unknown.png" width="200" height="400"/>   <img src="https://cdn.discordapp.com/attachments/774850827105206282/867642014795038730/unknown.png" data-canonical-src="https://cdn.discordapp.com/attachments/774850827105206282/867642014795038730/unknown.png" width="200" height="400"/>   <img src="https://cdn.discordapp.com/attachments/774850827105206282/867642148139302952/unknown.png" data-canonical-src="https://cdn.discordapp.com/attachments/774850827105206282/867642148139302952/unknown.png" width="200" height="400"/>   <img src="https://cdn.discordapp.com/attachments/774850827105206282/867642204917989396/unknown.png" data-canonical-src="https://cdn.discordapp.com/attachments/774850827105206282/867642204917989396/unknown.png" width="200" height="400"/>   
